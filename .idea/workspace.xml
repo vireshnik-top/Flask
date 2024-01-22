@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf9065f5-6ff7-4e47-92cf-8ca63b9ba4b4" name="Changes" comment="Удаление лишнего">
-      <change afterPath="$PROJECT_DIR$/README_ДЗ.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bf9065f5-6ff7-4e47-92cf-8ca63b9ba4b4" name="Changes" comment="Описание работы api_twit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705933382358</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Описание работы api_twit">
+      <option name="closed" value="true" />
+      <created>1705933961369</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705933961369</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +238,7 @@
     <MESSAGE value="Ошибка:&#10;TypeError: Object of type Twit is not JSON serializable" />
     <MESSAGE value="Ошибка устранена" />
     <MESSAGE value="Удаление лишнего" />
-    <option name="LAST_COMMIT_MESSAGE" value="Удаление лишнего" />
+    <MESSAGE value="Описание работы api_twit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Описание работы api_twit" />
   </component>
 </project>
